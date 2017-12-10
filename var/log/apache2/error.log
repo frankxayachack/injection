@@ -1,0 +1,21 @@
+
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 10 05:16:37.525679 2017] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.32 configured -- resuming normal operations
+[Sun Dec 10 05:16:37.525734 2017] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Dec 10 05:16:51.313922 2017] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 10 05:16:56.074367 2017] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.32 configured -- resuming normal operations
+[Sun Dec 10 05:16:56.074415 2017] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Dec 10 05:17:17.117635 2017] [autoindex:error] [pid 16] [client 172.18.0.1:40924] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 10 18:00:39.879783 2017] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.32 configured -- resuming normal operations
+[Sun Dec 10 18:00:39.879840 2017] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+sh: 1: 0: not found
+sh: 1: 0: not found
+sh: 1: 0: not found
+sh: 1: 0: not found
+sh: 1: 0: not found
+sh: 1: 0: not found
+sh: 1: ud: not found
+cat: a.txt: No such file or directory
+cat: a.txt: No such file or directory
